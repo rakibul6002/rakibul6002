@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
+<div align="center"><img src="https://github.com/rakibul6002/rakibul6002/blob/main/download%20(5).png"></div>
 <h3 align="center">I am a MERN Stack Developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
