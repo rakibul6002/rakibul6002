@@ -1,4 +1,4 @@
-<div align="center"><img width="900" src="https://github.com/rakibul6002/rakibul6002/blob/main/DALL·E 2024-10-27 19.50.43 - A GitHub cover image for a front-end developer with a modern, tech-focused theme. It features a clean layout with a mix of vibrant colors, including b.webp"></div>
+<div align="center"><img width="900" height="500" src="https://github.com/rakibul6002/rakibul6002/blob/main/DALL·E 2024-10-27 19.50.43 - A GitHub cover image for a front-end developer with a modern, tech-focused theme. It features a clean layout with a mix of vibrant colors, including b.webp"></div>
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I am a MERN Stack Developer from Bangladesh.</h3>
 <img align="center" alt="coding" width="600" src="https://github.com/rakibul6002/rakibul6002/blob/main/Wiring with A Web Developer.gif">
