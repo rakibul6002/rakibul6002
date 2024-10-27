@@ -1,7 +1,7 @@
 <div align="center"><img width="900" src="https://github.com/rakibul6002/rakibul6002/blob/main/tvbcrzn0z4lz201b7t3s.webp"></div>
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I am a MERN Stack Developer from Bangladesh.</h3>
-<img align="center" alt="coding" width="400" src="https://github.com/rakibul6002/rakibul6002/blob/main/tvbcrzn0z4lz201b7t3s.webp">
+<img align="center" alt="coding" width="600" src="https://github.com/rakibul6002/rakibul6002/blob/main/Wiring with A Web Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul6002&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul6002" /> </p>
 
