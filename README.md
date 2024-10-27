@@ -1,4 +1,4 @@
-<div align="center"><img width="900" src="https://github.com/rakibul6002/rakibul6002/blob/main/Wiring with A Web Developer.gif"></div>
+<div align="center"><img width="900" src="https://github.com/rakibul6002/rakibul6002/blob/main/tvbcrzn0z4lz201b7t3s.webp"></div>
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">I am a MERN Stack Developer from Bangladesh.</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
